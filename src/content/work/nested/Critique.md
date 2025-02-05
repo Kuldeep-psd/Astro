@@ -18,6 +18,10 @@ The core question driving the story is clear: How much destruction has happened 
 The audience seems to be a general global readership—anyone trying to understand the scale of devastation, including policymakers, activists, and the general public.
 The piece subtly pushes the audience to acknowledge the sheer extent of destruction without using overtly emotional or political language. Instead, the visuals do the work.
 
+<p><a href="https://www.w3schools.com">
+<img title="get rickrolled" src="/assets/hero.jpg" width="500px"></a>
+</p>
+
 ##### Data & Abstractions
 
 Smart choices, but could benefit from additional layers of context

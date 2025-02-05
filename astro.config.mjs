@@ -13,6 +13,6 @@ export default defineConfig({
     plugins: [tailwindcss()]
   },
   site: 'https://kuldeep-psd.github.io/dataViz/',
-  base: 'dataViz',
+  base: '',
   integrations: [svelte(), mdx()]
 });

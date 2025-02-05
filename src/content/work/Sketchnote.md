@@ -11,6 +11,3 @@ tags:
 ---
 
 It was pretty fun to create this sketchnote.
-
-
-
