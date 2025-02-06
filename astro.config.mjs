@@ -12,7 +12,7 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()]
   },
-  site: 'https://kuldeep-psd.github.io',
-  base: '/dataViz',
+  // site: 'https://kuldeep-psd.github.io',
+  // base: '/dataViz',
   integrations: [svelte(), mdx()]
 });
