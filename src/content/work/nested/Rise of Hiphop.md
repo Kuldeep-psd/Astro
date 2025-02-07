@@ -60,6 +60,10 @@ Desi Hiphop and its different scenes
 
 <img src="/assets/city1.jpg">
 
+<img src="/assets/city2.jpg">
+
+<img src="/assets/city3.jpg">
+
 #### Conclusion: More Than Just Music, A Global Movement
 
 Hip-hop is no longer just an American export—it’s a global voice of the streets.
