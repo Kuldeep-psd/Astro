@@ -31,7 +31,7 @@ Japan: Fusion with traditional sounds (King Giddra, Teriyaki Boyz).
 
 South Korea: K-hip-hop emerges as an industry (Epik High, Jay Park).
 
-Data visualization: A world map showing the spread of hip-hop across continents over time.
+<img src="/assets/world.jpg">
 
 #### Hip-Hop Becomes the World’s Dominant Music (2000s-Present)
 
