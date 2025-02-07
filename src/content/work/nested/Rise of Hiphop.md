@@ -1,5 +1,5 @@
 ---
-title: "From The Bronx to the World: The Rise and Evolution of Hip-Hop"
+title: "From Bronx to India: The Rise and Evolution of Hip-Hop"
 publishDate: 2019-12-01 00:00:00
 img: /assets/cover.webp
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
@@ -15,7 +15,7 @@ Set the stage: The birth of hip-hop in the 1970s Bronx, NYC—block parties, DJ 
 The social and political context: Hip-hop as a response to systemic neglect, racial inequality, and economic hardship.
 Why hip-hop was different: DIY culture, self-expression, and community-driven evolution.
 
-Data snippet: Growth of hip-hop listenership over decades (chart showing rise in global popularity).
+<img src="/assets/Graph.jpg">
 
 #### The Golden Age and Globalization (1980s-2000s)
 
