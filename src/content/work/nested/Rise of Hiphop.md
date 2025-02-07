@@ -54,7 +54,11 @@ The rise of gully rap: How artists like Divine, Naezy, and others brought street
 Bollywood vs. Underground: The tension between commercialized rap (Badshah, Yo Yo Honey Singh) and authentic hip-hop (Seedhe Maut, Prabh Deep).
 Hip-hop’s role in socio-political movements: Dalit rap, protest music, and regional languages in hip-hop.
 
-Data visualization: The growth of hip-hop-related searches and streaming numbers in India.
+
+<img src="/assets/india.jpg">
+Desi Hiphop and its different scenes
+
+<img src="/assets/city1.jpg">
 
 #### Conclusion: More Than Just Music, A Global Movement
 
