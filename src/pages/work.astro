@@ -13,6 +13,14 @@ const projects = (await getCollection('work')).sort(
 );
 ---
 
+<script>
+	const songId = '5gOfC9UzZQzTyShqPMrpjT';
+	const fetchSongFeatures = async (songId) => {
+    const response = await fetch(`/api/spotify?id=${songId}`);
+    const data = await response.json();
+    console.log(data); // Process this data for poster generation
+};
+</script>
 <BaseLayout
 	title="DataViz | Kuldeep Singh"
 	description="Here's what i worked upon in DataViz Module"
