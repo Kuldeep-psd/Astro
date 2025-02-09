@@ -12,6 +12,5 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()]
   },
-  site: 'https://kuldeep-psd.github.io',
   integrations: [svelte(), mdx()]
 });

@@ -33,6 +33,7 @@ South Korea: K-hip-hop emerges as an industry (Epik High, Jay Park).
 
 <img src="/assets/world.jpg">
 
+
 #### Hip-Hop Becomes the World’s Dominant Music (2000s-Present)
 
 Streaming era: How platforms like YouTube, SoundCloud, and TikTok fueled global hip-hop.
@@ -46,6 +47,17 @@ UK Drill (2010s): How Chicago drill influenced London, and how UK drill now infl
 Latin Trap (2010s): Bad Bunny, Anuel AA, and how reggaeton infused with hip-hop beats changed Latin music.
 
 Afrobeats & Hip-Hop Fusion (2020s): How Burna Boy, Wizkid, and Nigerian artists shaped a new sound.
+
+<script is:inline src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+<script is:inline>
+  function setup() {
+    createCanvas(400, 400);
+  }
+  function draw() {
+    fill(255);
+    ellipse(mouseX, mouseY, 80, 80);
+  }
+</script>
 
 #### Hip-Hop in India: From Underground to Mainstream
 
