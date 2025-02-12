@@ -6,7 +6,7 @@ img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 description: |
   It was fun reading and analysing this article.
 tags:
-  - Data Narrative
+  - Article Critique
 ---
 
 Feel free to check out the article in question <a href="https://www.reuters.com/graphics/ISRAEL-PALESTINIANS/ANNIVERSARY-GAZA-RUBBLE/akveegbnlvr/">here</a>.
@@ -17,10 +17,6 @@ Well-defined and impactful
 The core question driving the story is clear: How much destruction has happened in Gaza over the past year?
 The audience seems to be a general global readership—anyone trying to understand the scale of devastation, including policymakers, activists, and the general public.
 The piece subtly pushes the audience to acknowledge the sheer extent of destruction without using overtly emotional or political language. Instead, the visuals do the work.
-
-<p><a href="https://www.w3schools.com">
-<img title="get rickrolled" src="/assets/hero.jpg" width="500px"></a>
-</p>
 
 ##### Data & Abstractions
 

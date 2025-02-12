@@ -48,17 +48,6 @@ Latin Trap (2010s): Bad Bunny, Anuel AA, and how reggaeton infused with hip-hop 
 
 Afrobeats & Hip-Hop Fusion (2020s): How Burna Boy, Wizkid, and Nigerian artists shaped a new sound.
 
-<script is:inline src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
-<script is:inline>
-  function setup() {
-    createCanvas(400, 400);
-  }
-  function draw() {
-    fill(255);
-    ellipse(mouseX, mouseY, 80, 80);
-  }
-</script>
-
 #### Hip-Hop in India: From Underground to Mainstream
 
 Early influences: The 1990s Bollywood-rap fusions (Baba Sehgal, Style Bhai) and underground breakdancing crews.
